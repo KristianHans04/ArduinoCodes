@@ -47,7 +47,7 @@ The following tools and technologies are utilized across these projects:
 To get started with any project:  
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/[YourUsername]/IoT_Projects.git
+   git clone https://github.com/KristianHans04/IoT_Projects.git
    cd IoT_Projects
    ```  
 2. Navigate to the specific project folder.  
